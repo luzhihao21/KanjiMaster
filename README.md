@@ -63,3 +63,5 @@
 
 ## 📸 スクリーンショット 👇
 https://github.com/luzhihao21/KanjiMaster/issues/1
+## 動画　👇
+https://youtube.com/shorts/yfeGcMszuAo?si=AstOxHWgFH3ighFp
