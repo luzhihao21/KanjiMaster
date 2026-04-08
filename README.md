@@ -61,5 +61,5 @@
 
 ---
 
-## 📸 Screenshots / スクリーンショット / 项目截图
-*(Tip: Add your app screenshot here / ここにアプリのスクリーンショットを追加してください / 在此处添加你的 App 运行截图)*
+## 📸 スクリーンショット 👇
+https://github.com/luzhihao21/KanjiMaster/issues/1
